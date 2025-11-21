@@ -57,6 +57,7 @@ createCollectable("diamond", 200,280, 0.5, 0.7)
 
     // TODO 4 - Create Cannons
 
+  createCannon("poition", 40,20);
 
 
     
